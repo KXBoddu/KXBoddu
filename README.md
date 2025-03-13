@@ -1,7 +1,10 @@
 ## Hi, I'm Kesavi
 
-Data Analyst at LOOOP Enterprises</BR>
-Upcoming MBA Aspirant at UTD</BR>
+Software Developer | Data Analyst | Future Management Consultant </br> 
+🔹 Passionate about blending tech with business to drive impact.</br> 
+🔹 Skilled in React, JavaScript, SQL, Python, AWS </br> 
+🔹 Interested in consulting, strategy, and operations  </br> 
+📫 Reach me at: kesaviboddu@gmail.com  
 
 
 # 💻 Tech Stack:
